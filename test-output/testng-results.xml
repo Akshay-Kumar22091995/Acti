@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Sucessfull.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-15T19:13:57Z" name="Default suite" finished-at="2022-06-15T19:15:02Z" duration-ms="65130">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T19:13:57Z" name="Default test" finished-at="2022-06-15T19:15:02Z" duration-ms="65130">
+      <class name="com.actitime.testscript.LoginVtiger">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.actitime.testscript.LoginVtiger@ae13544]" started-at="2022-06-15T19:13:57Z" name="configBC" finished-at="2022-06-15T19:14:02Z" duration-ms="4370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.actitime.testscript.LoginVtiger@ae13544]" started-at="2022-06-15T19:14:02Z" name="configBM" finished-at="2022-06-15T19:14:33Z" duration-ms="30959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="loginTest()[pri:0, instance:com.actitime.testscript.LoginVtiger@ae13544]" started-at="2022-06-15T19:14:33Z" name="loginTest" finished-at="2022-06-15T19:14:52Z" duration-ms="19140" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Sucessfull.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.actitime.testscript.LoginVtiger@ae13544]" started-at="2022-06-15T19:14:52Z" name="configAM" finished-at="2022-06-15T19:15:02Z" duration-ms="9896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.actitime.testscript.LoginVtiger@ae13544]" started-at="2022-06-15T19:15:02Z" name="configAC" finished-at="2022-06-15T19:15:02Z" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.actitime.testscript.LoginVtiger -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
